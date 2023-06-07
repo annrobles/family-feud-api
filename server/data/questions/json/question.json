@@ -1,0 +1,254 @@
+[
+    {
+       "question": "Pag nagkita ang mag kumare sa daan, ito ang sinasabi. 'Mars ___________!'",
+       "answers": [
+            { "text": "Kumusta na", "score": 27 },
+            { "text": "Ano ang latest?", "score": 20 },
+            { "text": "Pautang", "score": 17 },
+            { "text": "Anong balita", "score": 15 },
+            { "text": "Blooming/Gumanda ka", "score": 12 },
+            { "text": "Tumaba ka", "score": 10 }
+       ]
+    },
+    {
+        "question": "Kadalasang inaabangang araw ng mga bata",
+        "answers": [
+            { "text": "Pasko", "score": 30 },
+            { "text": "Sabado", "score": 25 },
+            { "text": "Birthday", "score": 23 },
+            { "text": "Holiday/walang pasok", "score": 17 },
+            { "text": "Friday", "score": 15 }
+        ]
+    },
+    {
+        "question": "Gulay na hindi green",
+        "answers": [
+            { "text": "Carrots", "score": 55 },
+            { "text": "Patatas", "score": 9 },
+            { "text": "Talong", "score": 8 },
+            { "text": "Kamatis", "score": 7},
+            { "text": "Singkamas", "score": 5 },
+            { "text": "Sayote", "score": 3 }
+        ]
+    },
+    {
+        "question": "Ano ang ginagawa ng isang teen ager na ikinagagalit ng isang magulang",
+        "answers": [
+            { "text": "Magsinungaling", "score": 32 },
+            { "text": "Late umuwi", "score": 22 },
+            { "text": "Sumasagot", "score": 19 },
+            { "text": "Maglasing", "score": 12 },
+            { "text": "Manigarilyo", "score": 7 },
+            { "text": "Tatamad-tamad", "score": 6 }
+        ]
+    },
+    {
+        "question": "Top 7 na paboritong ulam ng mga Pinoy",
+        "answers": [
+            { "text": "Adobo", "score": 35 },
+            { "text": "Inasal", "score": 30 },
+            { "text": "Lechon", "score": 27 },
+            { "text": "Kare kare", "score": 25 },
+            { "text": "Pinakbet", "score": 20 },
+            { "text": "Tinolang manok", "score": 18 }
+        ]
+    },
+    {
+        "question": "Mga maligno/multo na kinakakatakutan ng mga Pilipino",
+        "answers": [
+            { "text": "Manananggal", "score": 40 },
+            { "text": "Aswang", "score": 35 },
+            { "text": "Tiyanak", "score": 30 },
+            { "text": "Tikbalang", "score": 25 },
+            { "text": "Kapre", "score": 22 },
+            { "text": "White lady", "score": 10 }
+        ]
+    },
+    {
+        "question": "Mga bagay na kadalasang nakikita sa isang Pinoy na bahay",
+        "answers": [
+            { "text": "Tabo at timba", "score": 55 },
+            { "text": "Tsinelas/step in", "score": 40 },
+            { "text": "Kulambo", "score": 35 },
+            { "text": "Walis tingting", "score": 20 },
+            { "text": "Ice cream container na may lamang isda", "score": 15 },
+            { "text": "Last supper na decoration", "score": 10 }
+        ]
+    },
+    {
+        "question": "Mga expectations pag dumalo sa Filipino party",
+        "answers": [
+            { "text": "Filipino time", "score": 28 },
+            { "text": "Maraming pagkain", "score": 23 },
+            { "text": "Videoke", "score": 20 },
+            { "text": "Ziplock/empty containers", "score": 18 },
+            { "text": "Picturan/Kodak moments", "score": 15 },
+            { "text": "Maraming bata", "score": 5 }
+        ]
+    },
+    {
+        "question": "Mga bagay na malapit sa grocery cashier",
+        "answers": [
+            { "text": "Candies/chocolate", "score": 27 },
+            { "text": "Toothbrush", "score": 17 },
+            { "text": "Batteries", "score": 14 },
+            { "text": "Lighter", "score": 8 },
+            { "text": "Cigarettes", "score": 7 },
+            { "text": "Toothpaste", "score": 3 }
+        ]
+    },
+    {
+        "question": "Bukod sa magician, ano pa ang makikita sa isang magic show",
+        "answers": [
+            { "text": "Kahon", "score": 20 },
+            { "text": "Assistant", "score": 15 },
+            { "text": "Hat", "score": 12 },
+            { "text": "Baraha", "score": 8 },
+            { "text": "Table", "score": 6 },
+            { "text": "Kalapati", "score": 4 }
+        ]
+    },
+    {
+        "question": "Mahirap labhan kapag gamit ang kamay",
+        "answers": [
+            { "text": "Jeans", "score": 40 },
+            { "text": "Kumot", "score": 24 },
+            { "text": "Bedsheet", "score": 12 },
+            { "text": "Puting damit", "score": 5 },
+            { "text": "Carpet", "score": 3 },
+            { "text": "Sapatos", "score": 3 }
+        ]
+    },
+    {
+        "question": "Nag survey kami ng 100 kalalakihan, bukod sa pare o pre, ano pa ang tawagan nila?",
+        "answers": [
+            { "text": "Tol/utol", "score": 57 },
+            { "text": "Bro/Brod", "score": 24 },
+            { "text": "Pards", "score": 3 },
+            { "text": "Tropa", "score": 3 },
+            { "text": "Igan", "score": 2 },
+            { "text": "Pre", "score": 1 }
+        ]
+    },
+    {
+        "question": "Pag may mga sale sa mall, ano ang kadalasang mabiling gamit",
+        "answers": [
+            { "text": "T shirts", "score": 62 },
+            { "text": "Sapatos", "score": 16 },
+            { "text": "Pantalon", "score": 5 },
+            { "text": "Appliances", "score": 3 },
+            { "text": "Cosmetics", "score": 4 },
+            { "text": "Laruan", "score": 1 }
+        ]
+    },
+    {
+        "question": "Ano ang parusa na binibigay ng magulang sa pasaway na anak?",
+        "answers": [
+            { "text": "Palo", "score": 40 },
+            { "text": "Bawal lumabas", "score": 20 },
+            { "text": "Luhod sa asin", "score": 13 },
+            { "text": "No cellphone", "score": 9 },
+            { "text": "No allowance", "score": 4 },
+            { "text": "Hindi pinapakain", "score": 2 }
+        ]
+    },
+    {
+        "question": "Kapag nangangati ang likod, ano ang ginagamit pang kamot?",
+        "answers": [
+            { "text": "Stick", "score": 30 },
+            { "text": "Suklay", "score": 25 },
+            { "text": "Hanger", "score": 11 },
+            { "text": "Sandok", "score": 5 },
+            { "text": "Tinidor", "score": 3 },
+            { "text": "Kamay", "score": 3 }
+        ]
+    },
+    {
+        "question": "Habang tumatanda ang isang tao, ano ang nawawala o nauubos sau",
+        "answers": [
+            { "text": "Buhok", "score": 1 },
+            { "text": "Lakas", "score": 2 },
+            { "text": "Kagandahan/kagwapuhan", "score": 3 },
+            { "text": "Memorya", "score": 4 },
+            { "text": "Ngipin", "score": 5 },
+            { "text": "Kalamnan", "score": 2 }
+        ]
+    },
+    {
+        "question": "Paano mo idedescribe ang pinya sa isang taong bulag?",
+        "answers": [
+            { "text": "Maraming mata", "score": 71 },
+            { "text": "Matinik/magaspang", "score": 17 },
+            { "text": "Maasim/matamis", "score": 4 },
+            { "text": "May korona", "score": 3 },
+            { "text": "Kulay dilaw", "score": 2 },
+            { "text": "Maliit", "score": 1 }
+        ]
+    },
+    {
+        "question": "Ano ang isinusulat mo sa papel para di mo makalimutan",
+        "answers": [
+            { "text": "Phone number", "score": 31 },
+            { "text": "Utang/bills", "score": 12 },
+            { "text": "Things to do", "score": 11 },
+            { "text": "Important dates sched", "score": 11 },
+            { "text": "Grocery list", "score": 6 },
+            { "text": "Password", "score": 5 }
+        ]
+    },
+    {
+        "question": "Magbigay ng mga tunog na nililikha ng katawan",
+        "answers": [
+            { "text": "Utot", "score": 24 },
+            { "text": "Boses", "score": 14 },
+            { "text": "Sipol", "score": 10 },
+            { "text": "Hilik", "score": 9 },
+            { "text": "Palakpak", "score": 8 },
+            { "text": "Dighay", "score": 6 }
+        ]
+    },
+    {
+        "question": "Magbigay ng bagay na hinihipan",
+        "answers": [
+            { "text": "Lobo", "score": 54 },
+            { "text": "Kandila", "score": 28 },
+            { "text": "Pito", "score": 5 },
+            { "text": "Torotot", "score": 4 },
+            { "text": "Apoy", "score": 3 },
+            { "text": "Posporo", "score": 2 }
+        ]
+    },
+    {
+        "question": "Bukod sa paglalaba at paliligo, saan pa ginagamit ang tubig",
+        "answers": [
+            { "text": "Halaman", "score": 20 },
+            { "text": "Inumin", "score": 17 },
+            { "text": "Hugas ng plato", "score": 15 },
+            { "text": "Paglilinis ng bahay", "score": 14 },
+            { "text": "Pagluluto", "score": 13 },
+            { "text": "Carwash", "score": 8 }
+        ]
+    },
+    {
+        "question": "Kumpletuhin ang sagot, sinasabi ng teacher sa isang grade school student “Bukas magdala kayo ng?",
+        "answers": [
+            { "text": "Baon", "score": 15 },
+            { "text": "Basahan", "score": 14 },
+            { "text": "Walis", "score": 14 },
+            { "text": "Pencil/crayons", "score": 8 },
+            { "text": "Floor wax", "score": 7 },
+            { "text": "Pera", "score": 6 }
+        ]
+    },
+    {
+        "question": "Bukod sa mga contestants, ano pa ang makikita sa mga beauty contests?",
+        "answers": [
+            { "text": "Judges", "score": 49 },
+            { "text": "Hosts", "score": 29 },
+            { "text": "Audience", "score": 13 },
+            { "text": "Coach", "score": 3 },
+            { "text": "Make up artists", "score": 3 },
+            { "text": "Popcorn", "score": 2 }
+        ]
+    }
+]
